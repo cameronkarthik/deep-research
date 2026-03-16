@@ -1,0 +1,33 @@
+{
+  "baseline": {
+    "source": "empirical (twitter.com/elvissun - 22 agents = ~15% weekly)",
+    "agents_per_percent_weekly": 1.47,
+    "agents_per_percent_daily": 0.21
+  },
+  "estimates": {
+    "weekly": {
+      "1%": 1,
+      "2%": 3,
+      "3%": 4,
+      "5%": 7,
+      "7%": 10,
+      "10%": 15,
+      "15%": 22,
+      "20%": 29,
+      "25%": 37
+    },
+    "daily": {
+      "note": "Daily = weekly / 7. A full day's share is ~14.3% of weekly.",
+      "10%": 2,
+      "20%": 3,
+      "30%": 4,
+      "40%": 6,
+      "50%": 7,
+      "60%": 9,
+      "70%": 10,
+      "80%": 12,
+      "100%": 15
+    }
+  },
+  "history": []
+}
